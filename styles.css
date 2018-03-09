@@ -1,0 +1,21 @@
+body{color: #444444}
+
+h1 {font-size: 1.25em;
+    font-family: 'Comic Sans MS',Helvetica,sans-serif;
+    color: #66aa66;
+    /* font-weight: normal; */
+    /* text-decoration: overline; */
+    }
+
+p {font-size: 0.75rem;
+   line-height:1.8;
+}
+
+address {font-size: 0.75em;
+         font-style: normal;
+         /* font-weight: normal; */
+          }
+
+h2 {font-size: 1em;}
+
+h3 {font-size: 0.875em;}
